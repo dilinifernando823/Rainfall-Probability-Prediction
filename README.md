@@ -67,10 +67,12 @@ http://localhost:8501
 
 ## Application features
 
+- Responsive weather dashboard with grouped single-record inputs
 - Single-record rainfall probability prediction
-- Input validation
-- Batch CSV prediction
-- Downloadable prediction results
+- Adjustable classification threshold
+- Input validation with visible prediction feedback
+- Batch CSV preview, summary metrics, and prediction
+- Downloadable prediction results with probabilities
 - Saved-model and ensemble loading
 - The same notebook feature engineering and preprocessing
 - Support for weighted blend, stacking, or the best single model
